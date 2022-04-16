@@ -77,7 +77,7 @@ goGetOil(page);
 
 //함수 모음
 const hidden = () => {
-  document.getElementById("hidden-menu").style.width = "250px";
+  document.getElementById("hidden-menu").style.width = "280px";
 };
 const close = () => {
   document.getElementById("hidden-menu").style.width = "0px";
